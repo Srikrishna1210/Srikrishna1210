@@ -1,27 +1,80 @@
+# 👋 Hi, I'm Sri Krishna Teja!
 
-## 👋 **Hi, I'm Sri Krishna Teja!**
-- 🎯 Aspiring Data Analyst with a passion for making data-driven decisions
-- 📚 Currently learning: Data Engineering & Cloud Services
-- 📊 Tools I use: Advanced Excel | SQL | Power BI | Python | Statistics 🧠 Interested in: Consumer Insights | Agriculture Tech | Public Data Projects
+💻 Aspiring Software Engineer | Fresher  
+🚀 Passionate about building scalable applications and solving real-world problems  
+📚 Currently learning Data Structures, Backend Development & Cloud Technologies  
 
-## 🛠 Skills
-- **Programming & Databases:** Python (Pandas, NumPy), Shell Scripting, SQL Server, MySQL.
-- **Visualization & Analytics Tools:** Power BI, Tableau, Advanced Excel.
-- **Data Engineering Tools**: Microsoft Azure, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Microsoft Fabrics (familiar).
-- **Other:** Version Control (Git), Agile Methodologies, Jira.
+---
 
-  ## 📈 Projects
+## 🚀 About Me
+- 🎓 Computer Science Graduate  
+- 💡 Interested in Software Development & Problem Solving  
+- 🌱 Currently learning Python, Web Development & System Design  
+- 🤝 Open to Internships & Entry-Level Software Engineer roles  
 
-**Consumer Price Index (CPI) Project**
-+ Analyzed CPI data to answer 5 key business and economic questions.
-+ 📌 Tools: Excel, Power BI
-+ ✅ Delivered: Visual dashboards, trend analysis, inflation insights
+---
 
+## 🛠️ Tech Stack
 
-  ## 🌱 I'm Learning...
+### 💻 Programming Languages
+- Python 🐍  
+- Java ☕   
 
- -  Python for Data Analysis
- - Data Engineering & Cloud Tools
-- Data storytelling and visualization
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
+- React (Basic)
+- Django 
+- Rest APIs
 
- ## 📫 Let's Connect
+### 🗄️ Databases
+- MySQL  
+- SQL Server  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Linux (Basics)  
+
+---
+
+## 📌 Projects
+
+### 🔹 Student Management System
+- Developed a system to manage student records  
+- Features: Add, update, delete student details  
+- Tech Used: Python, SQL  
+
+### 🔹 Personal Portfolio Website
+- Built a responsive portfolio website  
+- Showcases projects, skills, and contact details  
+- Tech Used: HTML, CSS, JavaScript  
+
+### 🔹 Data Analysis Project
+- Analyzed datasets to extract insights  
+- Created dashboards using Excel / Power BI  
+
+---
+
+## 📈 Currently Learning
+- 📊 Data Structures & Algorithms  
+- ☁️ Cloud Computing (AWS / Azure Basics)  
+- 🔧 Backend Development (APIs, Databases)  
+
+---
+
+## 🎯 Goals
+- Become a skilled Software Engineer  
+- Contribute to Open Source Projects  
+- Build scalable and impactful applications  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 Portfolio: https://your-portfolio-link  
+
+---
+
+## ⚡ Fun Fact
+> I enjoy turning ideas into real-world applications and continuously learning new technologies 🚀
